@@ -10,7 +10,7 @@
 
 ## 📊 Dashboard
 
-![RFM Dashboard](rfm_dashboard-2.png)
+![RFM Dashboard](visualizations/rfm_dashboard-2.png)
 ## Project Overview
 
 This project uses RFM (Recency, Frequency, Monetary) analysis to segment
