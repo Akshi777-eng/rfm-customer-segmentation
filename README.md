@@ -94,10 +94,10 @@ rfm_project/
 │   └── rfm_business_recommendations.csv
 │
 ├── visualizations/
-│   ├── rfm_dashboard.png
-│   ├── customer_distribution.png
-│   ├── revenue_by_segment.png
-│   └── revenue_contribution.png
+│   ├── rfm_dashboard-2.png
+│   ├── customer_distribution-2.png
+│   ├── revenue_by_segment-2.png
+│   └── revenue_contribution-2.png
 │
 ├── requirements.txt
 └── README.md
